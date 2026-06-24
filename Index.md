@@ -35,6 +35,7 @@ Este Vault está dividido en los siguientes módulos fundamentales:
 * **[[04_PNJs_y_Facciones|04. PNJs & Facciones]]:** La red de contactos, aliados y los letales [[Ajustadores Corporativos]] enviados por [[Aethelgard Holdings]].
 * **[[05_Handouts_y_Pistas|05. Repositorio de Handouts]]:** Las pistas físicas listas para imprimir o transcribir, incluyendo contratos y planos no euclidianos.
 * **[[06_Manual_para_el_Guardian|06. Manual de Conducción para el Guardián]]:** Consejos de ritmo, atmósfera y coherencia de juego.
+* **[[07_Pueblos_Aledanos|07. Pueblos Aledaños y Expansión Regional]]:** Locaciones e ideas para expandir la campaña en Salinas de la Brea, Puerto Herrumbre y Colonia Nueva Esperanza.
 
 ---
 

@@ -36,6 +36,9 @@ Este Vault está dividido en los siguientes módulos fundamentales:
 * **[[05_Handouts_y_Pistas|05. Repositorio de Handouts]]:** Las pistas físicas listas para imprimir o transcribir, incluyendo contratos y planos no euclidianos.
 * **[[06_Manual_para_el_Guardian|06. Manual de Conducción para el Guardián]]:** Consejos de ritmo, atmósfera y coherencia de juego.
 * **[[07_Pueblos_Aledanos|07. Pueblos Aledaños y Expansión Regional]]:** Locaciones e ideas para expandir la campaña en Salinas de la Brea, Puerto Herrumbre y Colonia Nueva Esperanza.
+* **[[08_Diagramas_y_Mapas|08. Diagramas y Cartografía de la Campaña]]:** Mapas de conexiones regionales, estructura del complejo y flujo de investigación.
+* **[[09_Personajes_Jugables|09. Personajes Jugables Pre-generados]]:** Fichas resumidas y trasfondos de 5 investigadores (Abogados, Ingenieros y Literatos) con lazos en la campaña.
+* **[[10_Historia_completa|10. Brea Oxidada: La Historia Completa]]:** Novelización literaria de los acontecimientos de la campaña en formato de prosa.
 
 ---
 

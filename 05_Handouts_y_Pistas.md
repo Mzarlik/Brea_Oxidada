@@ -19,28 +19,27 @@ tags:
 
 # 📋 05. Repositorio de Handouts & Pistas Tangibles
 
-Este documento contiene las transcripciones completas, las descripciones visuales detalladas y los requisitos mecánicos para descubrir y descifrar las pistas de **Brea Oxidada**. Estos materiales están diseñados para ser entregados directamente a los jugadores.
+*El siguiente repositorio reúne las transcripciones íntegras y las descripciones visuales detalladas de las pistas físicas recopiladas durante el desalojo judicial de la cuenca salina.*
 
 ---
 
 ## 🗺️ Matriz de Investigación de Pistas
 
-El siguiente cuadro resume el flujo de las pistas clave de la campaña:
+El siguiente cuadro detalla el flujo investigativo de los documentos:
 
-| Pista | Sesión | Habilidad de Obtención | Revelación Clave | Wiki-link Relacionado |
-| :--- | :---: | :--- | :--- | :--- |
-| **H1: Contrato Aethelgard** | Sesión 1 | *Derecho* / *Buscar Libros* | Cláusula de cesión de masa; firmas con ADN de [[Brea Oxidada]]. | [[Aethelgard Holdings]] |
-| **H2: Plano Heliográfico** | Sesión 2 | *Electricidad* / *Mecánica* | Entrada al sótano secreto mediante origami no euclidiano. | [[Complejo Industrial]] |
-| **H3: Poema "Fragmentos"** | Sesión 3 | *Ocultismo* / *Historia* | Relación entre teosofía de 1920 y silicio/CRT modernos. | [[La Frecuencia Alfa]] |
-| **H4: Bitácora BBS Julia** | Sesión 1/2 | *Computación* (BBS local) | Advertencias sobre la "reprogramación" de obreros. | [[Hijos de la Frecuencia]] |
-| **H5: Autopsia Ajustador** | Sesión 3 | *Medicina* / *Física* | Implantes de brea sólida; ausencia de lóbulo frontal. | [[Ajustadores Corporativos]] |
+| Pista | Obtención | Habilidad Requerida | Revelación Narrativa | Wiki-link |
+| :--- | :--- | :--- | :--- | :--- |
+| **H1: Contrato Aethelgard** | Oficina de Administración | *Derecho* / *Buscar Libros* | Cláusula de cesión de masa; firmas hechas con ADN líquido. | [[Aethelgard Holdings]] |
+| **H2: Plano Heliográfico** | Control de Mantenimiento | *Electricidad* / *Mecánica* | Entrada al laboratorio del sótano mediante doblez de origami. | [[Complejo Industrial]] |
+| **H3: Poema "Fragmentos"** | Caja fuerte de la Junta | *Ocultismo* / *Historia* | Relación entre teosofía de 1920 y silicio/CRT modernos. | [[La Frecuencia Alfa]] |
+| **H4: Bitácora BBS Julia** | Conexión del Mainframe | *Computación* (BBS local) | Advertencias sobre la "reprogramación" e inminente emisión. | [[Hijos de la Frecuencia]] |
+| **H5: Autopsia Ajustador** | Oficina del Forense | *Medicina* / *Física* | Implantes de cobre y brea en el cráneo de los esbirros. | [[Ajustadores Corporativos]] |
 
 ---
 
 ## 📄 Handout 1: El Contrato de Confidencialidad de Aethelgard
 
-* **Descripción Visual:** Un pliego de papel bond de alto gramaje, ligeramente amarillento y con olor a humedad y alquitrán. En la parte superior luce el logotipo en relieve dorado de *Aethelgard Holdings, Inc. (División de Prototipos)*, fechado el *14 de Noviembre de 1982*. El texto está mecanografiado con una cinta de máquina de escribir negra desgastada.
-* **Ubicación:** Encontrado en un archivador metálico cerrado con combinación en la oficina de administración de la fábrica durante la [[01_Cronograma_de_Campana#Sesión 1|Sesión 1]].
+* **Descripción Visual:** Un pliego de papel de hilo de alto gramaje, amarillento por el tiempo y impregnado de un penetrante olor a asfalto húmedo y moho de sótano. Lleva el membrete en relieve dorado de *Aethelgard Holdings, Inc. (División de Prototipos)*, fechado el *14 de Noviembre de 1982*. El texto está mecanografiado con una cinta de máquina de escribir negra desgastada.
 * **Requisito:** Tirada de **Derecho** o **Buscar Libros** (Regular) para analizar las cláusulas.
 
 ### Transcripción Completa:
@@ -58,17 +57,16 @@ El siguiente cuadro resume el flujo de las pistas clave de la campaña:
 > *J. Aethelgard (Por la Corporación)*  
 > *Walter Higgins (Operador de Calderas - Legajo #442)*
 
-* **El Secreto Físico:** Si un investigador de [[Literatura]] o con **Medicina / Química** analiza la firma de Julian Aethelgard con luz ultravioleta, nota que la firma no es de tinta de base de carbón ordinaria; es un fluido negro y espeso que permanece biológicamente activo, conteniendo trazas de ADN y microcristales de [[Brea Oxidada]] que vibran levemente si se acerca una radio encendida.
+* **El Secreto Físico:** Si un investigador de [[Literatos]] o con **Medicina / Química** analiza la firma con luz ultravioleta, nota que la firma no es de tinta de base de carbón ordinaria; es un fluido negro y espeso que permanece biológicamente activo, conteniendo trazas de ADN y microcristales de [[Brea Oxidada]] que vibran levemente si se acerca una radio encendida.
 
 ---
 
 ## 🗺️ Handout 2: El Plano Heliográfico No Euclidiano
 
 * **Descripción Visual:** Un plano arquitectónico clásico de color azul prusia (blueprint) que detalla el trazado de los subsótanos y cañerías del complejo. Los trazos son precisos, pero las cotas de longitud del ala oeste tienen anotaciones manuscritas con tinta roja que indican *"Alineación en Doblez"*.
-* **Ubicación:** Recuperado en la mesa de dibujo de la sala de control de mantenimiento durante la [[01_Cronograma_de_Campana#Sesión 2|Sesión 2]].
 * **Requisito:** Una tirada **Ardua** de **Mecánica** o **Ciencia (Matemáticas)** para entender el patrón de plegado.
 
-### La Anomalía del Papel (Instrucciones para el Guardián):
+### La Anomalía del Papel:
 * Si el plano se dobla de forma convencional, solo muestra los planos de una sala de calderas vacía. 
 * Si se dobla siguiendo el patrón de *Origami No Euclidiano* anotado en los márgenes (plegando las esquinas en ángulos agudos de 45 grados hacia el centro tres veces), las líneas de tinta azul del reverso se unen con las del anverso, revelando una **cámara subterránea secreta** (el laboratorio de Julian Aethelgard) y una nota manuscrita:
 > *"La puerta no se abre hacia adentro ni hacia afuera. Se abre cuando la corriente eléctrica de 220V oscila en la frecuencia de 440 Hz en los disyuntores de la subestación. Sigue los números primos."*
@@ -78,7 +76,6 @@ El siguiente cuadro resume el flujo de las pistas clave de la campaña:
 ## 📖 Handout 3: Manuscrito "Fragmentos de una Esfera"
 
 * **Descripción Visual:** Tres hojas sueltas de papel de hilo inglés, escritas con pluma estilográfica en una caligrafía inclinada y elegante. Pertenecieron al poeta y teósofo de vanguardia Arthur Sterling (tío abuelo del Dr. Marcus Sterling) en 1926.
-* **Ubicación:** Encontrado en el interior de una caja de seguridad oculta detrás de un retrato al óleo de Julian Aethelgard en la sede corporativa de la corporación durante la [[01_Cronograma_de_Campana#Sesión 3|Sesión 3]].
 * **Requisito:** Tirada de **Ocultismo** o **Historia** (Regular) para descifrar la simbología.
 
 ### Transcripción Completa:
@@ -106,7 +103,6 @@ pues en dos dimensiones la muerte es tu faz."
 ## 💻 Handout 4: Bitácora BBS de Julia Pendelton
 
 * **Descripción Visual:** Una impresión en papel continuo con bandas perforadas laterales de impresora matricial. Muestra el registro de mensajes de un foro BBS privado llamado *The Phantom Screen*.
-* **Ubicación:** Obtenida por Clara Vance tras conectar la terminal administrativa de la fábrica a la red telefónica en la [[01_Cronograma_de_Campana#Sesión 1|Sesión 1]] o [[01_Cronograma_de_Campana#Sesión 2|Sesión 2]].
 * **Requisito:** Tirada de **Computación** (Regular).
 
 ### Transcripción del Registro:
@@ -136,7 +132,6 @@ el pitido... corran.
 ## 💀 Handout 5: Informe Forense del Ajustador Corporativo
 
 * **Descripción Visual:** Un informe médico preliminar escrito a máquina por un forense independiente de la ciudad. El papel tiene manchas de café y notas al margen con bolígrafo azul.
-* **Ubicación:** Entregado por Arthur Pendelton en la [[01_Cronograma_de_Campana#Sesión 3|Sesión 3]] tras la primera emboscada de los Ajustadores.
 * **Requisito:** Tirada de **Medicina** o **Ciencia (Biología)** (Ardua) para comprender las anomalías médicas.
 
 ### Transcripción del Informe:

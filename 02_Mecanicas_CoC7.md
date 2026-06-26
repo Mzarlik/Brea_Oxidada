@@ -15,86 +15,68 @@ tags:
   - "coc-7ed"
 ---
 
-# 🎲 02. Mecánicas de Juego, Cordura & Disonancia Estática (CoC 7.ª Edición)
+# 🎲 02. Observaciones sobre el Deterioro del Sistema Nervioso y el Desfase Métrico
 
-Este documento detalla las mecánicas de juego aplicadas a la campaña **Brea Oxidada**. Además de las reglas estándar de *La Llamada de Cthulhu (7.ª Edición)*, se introducen sistemas específicos para la **Disonancia Estática (Radiación Cognitiva)** y la resolución del cifrado digital de 1986.
-
----
-
-## 📊 1. Tabla de Dificultades del Entorno
-
-Los desafíos dentro del [[Complejo Industrial]] exigen que el Guardián aplique con rigor las tres escalas de dificultad:
-
-| Dificultad | Requisito | Ejemplos en la Campaña |
-| :--- | :--- | :--- |
-| **Regular** | 100% de la Habilidad | Buscar en archivos de patentes locales; forzar una puerta ordinaria; encender una terminal CRT estándar con su manual de operaciones. |
-| **Ardua** | 50% de la Habilidad | Traducir correspondencia codificada de [[Aethelgard Holdings]]; reparar el cableado de la subestación mientras gotea [[Brea Oxidada]] caliente sobre los hombros; detectar una distorsión geométrica en un plano de construcción. |
-| **Extrema** | 20% de la Habilidad | Hackear el mainframe central de la fábrica sin alertar al operador; mantener la puntería contra un [[Ajustadores Corporativos|Ajustador]] en un pasillo cuyas dimensiones físicas se curvan a 90 grados. |
+*Este informe médico y de control técnico compila las directrices de dificultades, fallas forzadas y la progresión patológica de la Disonancia Estática en el organismo humano bajo las reglas de La Llamada de Cthulhu (7.ª Edición).*
 
 ---
 
-## ⚠️ 2. Consecuencias para Tiradas Forzadas (Pushed Rolls)
+## 📊 1. Dificultades del Entorno de Inspección
 
-Cuando un investigador decide forzar una tirada fallida y vuelve a fallar, el Guardián debe aplicar consecuencias que reflejen la corrosión cognitiva y física del entorno:
+La interferencia espacial y electromagnética del complejo brutalista exige al analista de campo aplicar tres niveles de dificultad:
 
-### A. Fallo al Forzar *Electricidad / Mecánica / Computación*
-* **Consecuencia:** Además de sufrir 1d6 de daño por quemaduras, las huellas dactilares del investigador se borran de forma permanente, siendo reemplazadas por patrones espirales perfectos que alteran la fricción de sus manos (pérdida permanente de 5% en tiradas de *Destreza* y *Cerrajería*).
-
-### B. Fallo al Forzar *Derecho / Buscar Libros*
-* **Consecuencia:** El personaje asimila el dato del contrato o grimorio, pero sufre de una amnesia disociativa súbita: olvida por completo el rostro, nombre y existencia de su conexión de trasfondo más importante.
-
-### C. Fallo al Forzar *Descubrir (Spot Hidden) / Escuchar*
-* **Consecuencia:** A partir de ese momento, el nervio óptico del investigador interpreta la luz natural con una persistencia de fósforo ámbar (tinte amarillento en toda su visión), recibiendo un dado de penalización permanente para todas las tiradas de percepción a la luz del día.
-
-### D. Fallo al Forzar *Esquivar / Pelear* (Acción Física No Euclidiana)
-* **Consecuencia:** Al intentar esquivar un ataque dentro del complejo deformado, el personaje calcula mal las distancias debido a la curvatura del espacio. El impacto no solo causa daño físico doble, sino que el investigador sufre una *luxación interdimensional*: una de sus extremidades se siente "desfasada" del resto del cuerpo (recibe un dado de penalización para todas las acciones con esa extremidad hasta recibir atención médica especializada fuera del complejo).
+* **Regular (100%):** Acciones mecánicas comunes: registrar archivadores, forzar cerraduras estándar de la administración u operar terminales CRT con su manual técnico de fábrica.
+* **Ardua (50%):** Tareas bajo perturbación: traducir correspondencia del "Círculo de la Aguja" con jerga matemática de 1986; purgar válvulas de presión calientes mientras gotea [[Brea Oxidada]] sobre la ropa; detectar anomalías geométricas en planos de construcción.
+* **Extrema (20%):** Acciones bajo desfase físico: hackear el mainframe de Aethelgard sin activar alarmas analógicas; disparar contra un Ajustador corporativo en un pasillo cuyos ángulos visuales se curvan a 90 grados.
 
 ---
 
-## 🧠 3. Bouts of Madness Temáticos (Locura Analógica)
+## ⚠️ 2. Consecuencias Clínicas de las Tiradas Forzadas (Pushed Rolls)
 
-Cuando un personaje pierde 5 o más puntos de Cordura en una sola tirada y entra en un ataque de locura, el Guardián puede usar las siguientes manifestaciones personalizadas de 1986:
+Cuando un investigador decide forzar una acción fallida y vuelve a fallar, el colapso tridimensional del Valle reacciona de forma destructiva sobre su anatomía y psique:
 
-1. **Tecnofilia Compulsiva:** El investigador cree que los seres humanos son defectuosos. Solo confía en los diagnósticos de una terminal CRT muerta. Intentará consultarle cada decisión al monitor apagado mediante comandos manuscritos en la pantalla.
-2. **Acalculia y Agrafia:** El investigador pierde la capacidad de leer palabras u operar operaciones aritméticas básicas; en su lugar, ve el texto impreso en los periódicos o carteles de la calle como una sucesión de ángulos y espirales dinámicas.
-3. **Glosolalia Analógica:** En momentos de estrés, el habla del investigador degenera. Comienza a emitir sonidos que imitan el chirrido de un módem de marcación telefónica clásico de los 80 o la estática distorsionada de una televisión sin señal.
-4. **Paranoia de la Frecuencia:** El personaje cree que su cráneo actúa como una antena receptora para la [[La Frecuencia Alfa]]. Tratará desesperadamente de aislar su cabeza usando materiales conductores (como envolverse el cráneo con cables eléctricos o láminas de metal de la fábrica).
+* **Fallo al Forzar *Electricidad / Mecánica / Computación*:**
+  - *Efecto:* El dispositivo analógico genera un arco voltaico no euclidiano. El investigador sufre 1d6 de daño por quemaduras y sus huellas dactilares se borran de forma permanente, siendo reemplazadas por espirales concéntricas (pérdida permanente de 5% en *Destreza* y *Cerrajería*).
+* **Fallo al Forzar *Derecho / Buscar Libros*:**
+  - *Efecto:* La estructura lógica del contrato de Aethelgard sobrecarga el lóbulo temporal del lector. Sufre de amnesia selectiva inmediata, olvidando por completo a la persona más importante en sus conexiones de trasfondo.
+* **Fallo al Forzar *Descubrir (Spot Hidden) / Escuchar*:**
+  - *Efecto:* El nervio óptico se sobrecarga ante la radiación lumínica de los monitores CRT. A partir de ese momento, ve el mundo con un tinte ámbar de monitor viejo y recibe un dado de penalización permanente para tiradas de percepción a la luz del sol.
+* **Fallo al Forzar *Esquivar / Pelear*:**
+  - *Efecto:* Error de cálculo posicional en un espacio curvo. El impacto causa daño doble y el investigador sufre una *luxación interdimensional* en una extremidad (recibe un dado de penalización permanente en acciones físicas con ese miembro hasta recibir cirugía especializada fuera de la cuenca).
 
 ---
 
-## ⚡ 4. Mecánica Exclusiva: Disonancia Estática (Radiación Cognitiva)
+## 🧠 3. Progresión Patológica: Disonancia Estática (PE)
 
-La exposición continua a las terminales infectadas, a la [[Brea Oxidada]] y a la transmisión de [[La Frecuencia Alfa]] genera un desgaste neurológico invisible medido en **Puntos de Estática (PE)**.
+La exposición continuada a las terminales CRT, a la [[Brea Oxidada]] y a la señal subsónica de [[La Frecuencia Alfa]] genera un desgaste del sistema nervioso medido en **Puntos de Estática (PE)**.
 
 ```
-[0 PE: Mente Clara] ---> [5 PE: Tinnitus Analógico] ---> [10 PE: Desfase Físico] ---> [15+ PE: Asimilación]
+[0 PE: Sintonía Limpia] ---> [5 PE: Tinnitus de 60Hz] ---> [10 PE: Desfase Físico] ---> [15+ PE: Asimilación]
 ```
 
-### A. Acumulación de Puntos de Estática
-Los personajes ganan 1 Punto de Estática cada vez que:
-* Fallan una tirada de Cordura relacionada con fenómenos electromagnéticos o de geometría no euclidiana.
-* Pasan más de una hora interactuando directamente con sistemas de computación que ejecutan el bucle de la Frecuencia Alfa.
-* Entran en contacto directo (incluso protegido) con la Brea Oxidada.
+### A. Causas de la Estática
+El investigador gana 1 Punto de Estática cada vez que:
+* Falla una tirada de Cordura por eventos electromagnéticos o de geometría brutalista.
+* Pasa más de una hora consecutiva operando computadoras infectadas por la Frecuencia.
+* Toca directamente (incluso con guantes) la Brea Oxidada líquida.
 
-### B. Umbrales y Efectos de la Estática
-* **1-4 PE (Efecto Leve):** Tinnitus analógico leve. El personaje escucha un zumbido de 60 Hz en el oído izquierdo. Sin penalizaciones mecánicas, pero el personaje se siente irritable.
-* **5-9 PE (Efecto Moderado):** *Tinnitus e interferencia.* Las luces eléctricas parpadean levemente cuando el investigador pasa cerca. Recibe un dado de penalización para todas las tiradas de **Escuchar** debido al ruido blanco en su cabeza.
-* **10-14 PE (Efecto Grave):** *Desfase Tridimensional.* Las extremidades del personaje comienzan a verse ligeramente borrosas en las fotografías o cuando se miran a través de un espejo. Sufre una penalización permanente de -10% en todas las tiradas de **Destreza** y **Fuerza** ya que sus músculos no interactúan de forma óptima con los objetos tridimensionales ordinarios.
-* **15+ PE (Asimilación):** El personaje se convierte en un conductor físico de la Frecuencia. Sus ojos brillan con una tenue luminiscencia ámbar en la oscuridad. Si entra en contacto con metal conductor, actúa como toma de tierra, recibiendo y transmitiendo arcos voltaicos. A partir de este momento, cualquier pérdida de Cordura lo convierte inmediatamente en un [[Hijos de la Frecuencia|Hijo de la Frecuencia]] bajo el control del emisor.
+### B. Umbrales y Sintomatología
+* **1-4 PE (Efecto Leve):** Tinnitus sordo. El investigador escucha un silbido metálico de 60 Hz en el oído izquierdo. Sin penalización mecánica.
+* **5-9 PE (Efecto Moderado):** *Interferencia Física.* Las bombillas eléctricas parpadean levemente al pasar el personaje. Sufre un dado de penalización en tiradas de **Escuchar** debido al ruido de fondo en su cabeza.
+* **10-14 PE (Efecto Grave):** *Desfase Tridimensional.* Las extremidades del investigador se ven ligeramente borrosas en las fotografías y espejos. Sufre un -10% permanente en todas las tiradas de **Destreza** y **Fuerza** ya que su masa atómica no interactúa de forma óptima con los objetos de tres dimensiones.
+* **15+ PE (Asimilación):** El personaje brilla con una tenue luminiscencia ámbar en la oscuridad. Actúa como toma de tierra para arcos voltaicos. Al sufrir cualquier pérdida de Cordura posterior, se convierte permanentemente en un [[Hijos de la Frecuencia|Hijo de la Frecuencia]] controlado por el emisor.
 
-### C. Depuración de la Estática
-Los Puntos de Estática no se curan con medicina común ni primeros auxilios. La única forma de reducirlos es:
-* Pasar 24 horas continuas en un entorno rural completamente aislado de señales de radio, tendidos eléctricos y monitores CRT (reduce 1d4 PE).
-* Someterse a una terapia de choque eléctrico controlada (requiere tirada de **Medicina** y **Electricidad** de un tercero; reduce 3d4 PE, pero causa 1d6 de daño físico y pérdida temporal de memoria a corto plazo).
+### C. Depuración y Terapia
+Los Puntos de Estática no se curan con descanso común. La única forma de reducirlos es:
+* Pasar 24 horas en un entorno rural sin electricidad ni señales de radio (reduce 1d4 PE).
+* Someterse a terapia de choque eléctrico controlada (requiere tiradas exitosas de **Medicina** y **Electricidad** de un tercero; reduce 3d4 PE, pero causa 1d6 de daño físico y pérdida de memoria temporal).
 
 ---
 
-## 💻 5. Reglas de Descifrado: El Protocolo Aethelgard
+## 💻 4. Protocolo de Descifrado Aethelgard
 
-Para resolver el cifrado de las terminales del complejo y de la sede corporativa (Sesiones 2 y 3), los investigadores deben cooperar combinando sus disciplinas académicas y técnicas:
-
-* **El Rompecabezas del Cifrado:** Descifrar un mainframe requiere de **tres éxitos consecutivos** usando diferentes habilidades especializadas:
-  1. *Paso 1 (Acceso de Red - Ingeniería):* Tirada de **Computación** o **Electricidad** (Ardua) para saltarse las alarmas físicas del cableado y sincronizar el módem.
-  2. *Paso 2 (Descifrado Lógico - Literatura):* Tirada de **Ocultismo** o **Ciencia (Matemáticas)** (Ardua) para identificar que el cifrado no es binario, sino que utiliza una progresión geométrica basada en poemas esotéricos victorianos.
-  3. *Paso 3 (Jurisprudencia de Acceso - Derecho):* Tirada de **Derecho** o **Buscar Libros** (Regular) para ingresar contraseñas e identificadores legales válidos extraídos de los contratos de confidencialidad de la junta.
-* **Consecuencia del Fallo:** Si cualquiera de los pasos falla durante la secuencia de descifrado, la terminal infectada emite una descarga sensorial que añade inmediatamente **2 Puntos de Estática** a quien esté operando el teclado y bloquea el sistema durante 1 hora.
+Para infiltrarse en los mainframes corporativos (Fase II y III), los investigadores deben cooperar combinando sus disciplinas en una secuencia de **tres éxitos consecutivos**:
+1. *Paso 1 (Acceso de Red - Ingeniería):* Tirada de **Computación** (Ardua) para puentear los conmutadores telefónicos y sincronizar el módem.
+2. *Paso 2 (Descifrado Lógico - Literatura):* Tirada de **Ocultismo** o **Física** (Ardua) para identificar que las contraseñas siguen la métrica de los poemas esotéricos victorianos.
+3. *Paso 3 (Jurisprudencia de Acceso - Derecho):* Tirada de **Derecho** o **Buscar Libros** (Regular) para introducir identificadores legales válidos extraídos de los contratos de Aethelgard.
+* *Fallo:* Bloquea la terminal por 1 hora e inflige **2 Puntos de Estática** al operador debido al destello del fósforo.

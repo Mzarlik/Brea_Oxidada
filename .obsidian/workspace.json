@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parásitos del Fósforo.md",
+                "file": "10_Historia_completa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Parásitos del Fósforo"
+              "title": "10_Historia_completa"
             }
           }
         ]
@@ -183,28 +183,33 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "e3e71c510fb71920",
+  "active": "a6d355e8b5e18629",
   "lastOpenFiles": [
-    "Los Disidentes del Silicio.md",
-    "Literatos.md",
-    "La Frecuencia Alfa.md",
-    "Julian Aethelgard.md",
-    "Julia Pendelton.md",
-    "Ingenieros.md",
-    "Hijos de la Frecuencia.md",
-    "07_Pueblos_Aledanos.md",
-    "Arthur Pendelton.md",
-    "Clara Vance.md",
-    "Dra. Evelyn Carver.md",
-    "Constructo de Cemento.md",
-    "Parásitos del Fósforo.md",
-    "Brea Oxidada.md",
+    "Referencia_narrativa.md",
+    "09_Personajes_Jugables.md",
+    "10_Historia_completa.md",
+    "00_Marco_de_Juego.md",
+    "03_Bestiario_y_Anomalias.md",
     "Abogados.md",
+    "Arthur Pendelton.md",
+    "Julia Pendelton.md",
+    "Hijos de la Frecuencia.md",
+    "Literatos.md",
+    "Julian Aethelgard.md",
+    "Clara Vance.md",
     "Complejo Industrial.md",
-    "Ajustadores Corporativos.md",
-    "05_Handouts_y_Pistas.md",
+    "Constructo de Cemento.md",
+    "Dra. Evelyn Carver.md",
+    "Parásitos del Fósforo.md",
+    "Los Disidentes del Silicio.md",
     "06_Manual_para_el_Guardian.md",
-    "Aethelgard Holdings.md",
-    "00_Marco_de_Juego.md"
+    "04_PNJs_y_Facciones.md",
+    "Ingenieros.md",
+    "Index.md",
+    "02_Mecanicas_CoC7.md",
+    "01_Cronograma_de_Campana.md",
+    "08_Diagramas_y_Mapas.md",
+    "La Frecuencia Alfa.md",
+    "07_Pueblos_Aledanos.md"
   ]
 }
